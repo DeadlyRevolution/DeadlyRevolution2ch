@@ -1,0 +1,22 @@
+body{
+    background-color: cornsilk;
+}
+
+button {
+    width: 400px;
+    height: 100px; 
+    font-size: 70px; 
+    border-radius: 25%;
+  }
+p {
+    font-size: 40px;
+}
+img {
+    border-color: black;
+    border: 15px;
+    box-shadow: 5px gray;
+}
+a {
+    text-decoration: none; 
+    color: black; 
+}
